@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>ABOUT ME</title>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+
+<body>
+
+<div class="top">
+<h1>HEY THERE!</h1>
+<hr>
+</div>
+<div class= "intr">
+<h2>Introduction</h2>
+<p>
+<img src= "me.jfif" alt= "Raghav's Picture" style="float:right;">
+I am <b>Raghav Gupta</b>, the creator of this page.<br>
+I am an 18 year old kid.<br>
+I cannot really define my hometown because I have lived in a lot of places.But you can say that I am from Punjab.<br>
+</p>
+</div>
+
+<section>
+<div class="edu">
+<h2>Education</h2>
+<p>Upto tenth standard I changed a lot of schools. I studied in 6 different schools.<br>
+After that I migrated to Kota for the sake of JEE prepartion.<br>
+Currently I am pursuing undergraduate studies from IIT Bombay in <a href="https://www.civil.iitb.ac.in">Civil Engineering</a>.<br>
+I possess a decent record in academics.</p>
+</div>
+</section>
+
+<div class="por">
+<h2>Position of Responsibility</h2>
+I am Activity Associate at NSS in the department <a href="https://nss.iitb.ac.in/depts/GC"> Green Campus</a>.We plan and execute various initiatives of NSS and mentor about 100 volunteers working in a team of 7.
+I also write blogs for our department.
+
+<div class="phy">
+<h2>Physics</h2>
+<p>Concepts in physics are very general, thus allowing one to describe a wide range of phenomena with a very small number of equations.
+That is why I love Physics. I love exploring different fields in this subject.My perspective has completely changed after I started studying it in the way I do now.<br>I also made a detailed report on STR this summer for SoS.
+</p>
+</div>
+
+<div class="sports">
+<h2>Sports</h2>
+
+<ul>
+<li>I played Archery in my school days and I have also been District level player in this game.</li>
+<li>I love playing badminton as well and I play quite frequently whenever I get some free time.</li>
+<li>Recently I have also found intereset in Basketball.</li>
+</ul>
+</div>
+<!--My hobbies will follow-->
+
+<div class="hobbies">
+<h2>Other Hobbies</h2>
+<ul>
+<li>Reading big novels.</li>
+<li>Debating on politics.</li>
+<li>Watching thriller movies/web-series.</li>
+</ul>
+</div>
+
+<div class="music">
+<h2>Music</h2>
+<p>
+<ul>
+<li>I love singing Bollywood songs and listening to relaxing music.</li>
+<li>Playing keyboard is my love!</li>
+</ul>
+</p>
+</div>
+
+<section>
+<h2>Time Distribution</h2>
+<center><p>This grid roughly shows how I spent my time in my college till now :-</p></center>
+<div class="grid-container">
+  <div class="item1">Physics</div>
+  <div class="item2">Sports</div>
+  <div class="item3">Culturals</div>  
+  <div class="item4">Academics</div>
+  <div class="item5">Other Hobbies</div>
+  <div class="item6">Friends and other things</div>
+</div>
+</section>
+
+<div class="contact">
+<h2>Contact Me</h2>
+<div>
+<span>Ph.No.</span>:8209302759 </div><br>
+
+<p>If you need tips JEE prep. or anything else in general,you can contact me anytime on whatsapp.
+I will get back to you as soon as possible.
+</p>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
